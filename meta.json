@@ -1,0 +1,23 @@
+{
+  "repo": "suno-ai-premium",
+  "product": "Suno AI Premium",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "ai-music",
+  "topics": [
+    "suno-music",
+    "prompt-song-desk",
+    "stem-export-windows",
+    "suno-2026",
+    "how-to-install-suno",
+    "suno-desktop-package",
+    "lyric-mood-suite",
+    "take-version-tools",
+    "ai-song-workshop",
+    "suno-premium-edition"
+  ],
+  "site": "toolix.me"
+}
